@@ -20,6 +20,7 @@ function Menu() {
             
             <li><Link itemprop ="url" to="/login" aria-label="Log into Your Account">Login</Link></li>
             
+            <li><Link to="#main">Skip To Main Content</Link></li>
         </ul>
     </nav> 
   );
